@@ -1,4 +1,5 @@
-from PyQt6.QtWidgets import QMainWindow , QTextEdit ,QLineEdit , QPushButton , QApplication
+from PyQt6.QtWidgets import QMainWindow , QTextEdit ,QLineEdit , QPushButton ,\
+    QApplication
 import sys
 
 class ChatbotWindow(QMainWindow):
