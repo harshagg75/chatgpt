@@ -3,7 +3,7 @@ import openai
 
 class ChatBox:
     def __init__(self):
-        openai.api_key = "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"
+        openai.api_key = "sk-IMKC3xi36HselABsHT9ZT3BlbkFJe9DH1slqo1yuXQRBl"
 
     def get_response(self, user_input):
         response = openai.Completion.create(
